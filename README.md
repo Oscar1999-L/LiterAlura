@@ -69,8 +69,12 @@ Este programa es una aplicación que permite gestionar autores y libros, proporc
       - Haz clic en "Editar las variables de entorno del sistema".
       - En la sección "Variables del sistema", haz clic en "Nueva" o selecciona una existente y edítala.
       - Ingresa el nombre y el valor de la variable, por ejemplo:
-        -  Nombre de la variable: DB_URL
+        -  Nombre de la variable: DB_NAME
         -  Valor de la variable: jdbc:mysql://localhost:3306/mi_base_de_datos
+          -DB_NAME = Nombre de la Base de Datos
+          -DB_HOST = localhost
+          -DB_USER = Nombre de usuario
+          -DB_PASSWORD = Contraseña
   ## Uso del Programa
     1. Ejecuta el programa y sigue las instrucciones del menú principal.
     
