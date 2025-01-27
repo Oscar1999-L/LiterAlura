@@ -84,7 +84,3 @@ Este programa es una aplicación que permite gestionar autores y libros, proporc
   ## Posibles Mejoras Futuras
     Implementar una interfaz gráfica para mejorar la experiencia del usuario.
     Añadir opciones para busquedas mejoradas como un 'Top 10 libros mas descargados'
-  ## Contribuciones
-    ¡Contribuciones son bienvenidas! Por favor, abre un issue o envía un pull request para sugerencias o mejoras.
-
-
